@@ -120,7 +120,7 @@ export const FilmStripTransition: React.FC = () => {
     "https://raw.githubusercontent.com/theo913987/picture2026/refs/heads/main/3.jpg", // The Notebook
     "https://raw.githubusercontent.com/theo913987/picture2026/refs/heads/main/4.jpg", // 10 Things I Hate About You
     "https://raw.githubusercontent.com/theo913987/picture2026/refs/heads/main/5.jpg", // About Time
-    "https://raw.githubusercontent.com/theo913987/picture2026/refs/heads/main/6.jpg", // Pride and Prejudice
+    "https://raw.githubusercontent.com/theo913987/picture2026/refs/heads/main/12.jpg", // Pride and Prejudice
     "https://raw.githubusercontent.com/theo913987/picture2026/refs/heads/main/7.jpg", // Roman Holiday
     "https://raw.githubusercontent.com/theo913987/picture2026/refs/heads/main/8.jpg", // Duplicate start for loop
   ];
